@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
-# author: mirschao
-# email: mirschao@gmail.com
+# author: dong652
+# email: dong652380652@163.com
 # usage: transfer ssh piblic key to target machines.
 
 
